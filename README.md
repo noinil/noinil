@@ -6,7 +6,7 @@ I am doing research in computational biophysics. My interests include functional
 
 I used to be a free software fanatic (FSF), with many experiences of using various Linux distributions. But now I use paid softwares as much as possible to save time and to focus more on other interesting things.
 
-In order to participate in a sport without any physical contact, I started practicing the Rubik’s cube from 2009, and I broke the Chinese national record for the 2×2 cube in a game in 2010. But I lost the passion to keep practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
+In order to participate in a sport without any physical contact, I started practicing the Rubik’s cube from 2009, and I broke the Chinese national record for the 2×2×2 cube in a game in 2010. But I lost the passion to keep practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
 
 ## Find me
 
