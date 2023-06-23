@@ -4,9 +4,7 @@ Hi, welcome to my page on Github.
 
 I am doing research in computational biophysics. My interests include functional mechanisms of DNA-protein binding, multi-scale organization of the genome, liquid-liquid phase separation in gene expression, and modeling of biomolecules in molecular dynamics simulations. I write code for MD softwares [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and [CafeMol](https://www.cafemol.org/).
 
-I used to be a free software fanatic (FSF), with many experiences of using various Linux distributions. But now I use paid softwares as much as possible to save time and to focus more on other interesting things.
-
-In order to participate in a sport without any physical contact, I started practicing the Rubik’s cube from 2009, and I broke the Chinese national record for the 2×2×2 cube in a game in 2010. But I lost the passion to keep practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
+In addition to my professional work, I enjoy participating in non-contact sports, and in 2009, I began practicing the Rubik’s cube. My passion and dedication paid off in 2010, when I set a new Chinese national record for the 2×2×2 cube during a competition. Although I have not maintained the same level of practice since then, I am still proud of my achievement and encourage others to pursue their hobbies and passions outside of work. For those interested, my official records can be found on the [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
 
 ## Find me
 
