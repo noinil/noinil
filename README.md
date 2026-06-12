@@ -1,7 +1,5 @@
 Hi, welcome to Cheng Tan's page on Github.
 
-![Cheng Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=noinil&show_icons=true&theme=merko)
-
 ## About me
 
 I am doing research in computational biophysics. My interests include functional mechanisms of DNA-protein binding, multi-scale organization of the genome, liquid-liquid phase separation in gene expression, and modeling of biomolecules in molecular dynamics simulations. I write code for MD softwares [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and [CafeMol](https://www.cafemol.org/).
