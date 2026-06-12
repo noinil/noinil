@@ -1,4 +1,6 @@
-Hi, welcome to my page on Github.
+Hi, welcome to Cheng Tan's page on Github.
+
+![Cheng Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=noinil&show_icons=true&theme=merko)
 
 ## About me
 
